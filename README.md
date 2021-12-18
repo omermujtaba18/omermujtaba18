@@ -1,6 +1,4 @@
-## profile.js
-
-#### Basic
+#### Request
 ```.js
 const profile = get('Omer Mujtaba').basic;
 ```
