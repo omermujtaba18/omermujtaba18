@@ -25,13 +25,11 @@ const profile = get('Omer Mujtaba').basic;
     "bootstrap",
     "html",
     "css"
-  ]
-  "current_learning": [
-    "typescript:advance", "node-js:advance"
-  ], 
-  "future_learning": [
-    "unit-testing:advance", "docker", "kubernetes", "RabitMQ", "Redis", "AWS", "GCP"
-  ]
+  ],
+  "learning": [
+    { "current" : [ "typescript:advance", "node-js:advance" ] },
+    { "future" : [ "unit-testing:advance", "docker", "kubernetes", "RabitMQ", "Redis", "AWS", "GCP" ] }
+  ] 
 }
 ```
 
