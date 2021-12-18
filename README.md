@@ -1,6 +1,6 @@
-#### Request
+##### Get Profile
 ```.js
-const profile = get('Omer Mujtaba').basic;
+const profile = await fetch('/get/profile/omermujtaba');
 ```
 ##### Response
 
