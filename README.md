@@ -9,25 +9,14 @@ const profile = await fetch('/get/profile/omermujtaba');
   "name": "Omer Mujtaba",
   "location": "Montreal, Quebec",
   "profession": "Software Engineer",
-  "technology_stack": [
-    "node-js",
-    "javascript",
-    "typescript",
-    "react",
-    "react-native",
-    "php",
-    "python",
-    "MongoDB",
-    "MySQL",
-    "git",
-    "bootstrap",
-    "html",
-    "css"
+  "dev_stack": [
+    "node-js", "typescript", "javascript", "MongoDB",  "react", "MySQL",  "git", 
+    "react-native", "php", "python", "bootstrap", "html", "css", "Datadog"
   ],
-  "learning": [
-    { "current" : [ "typescript:advance", "node-js:advance" ] },
-    { "future" : [ "unit-testing:advance", "docker", "kubernetes", "RabitMQ", "Redis", "AWS", "GCP" ] }
-  ] 
+  "learning": {
+    "current" : [ "typescript:advance", "node-js:advance" ],
+    "future" : [ "unit-testing:advance", "docker", "kubernetes", "RabitMQ", "Redis", "AWS", "GCP" ]
+  } 
 }
 ```
 
