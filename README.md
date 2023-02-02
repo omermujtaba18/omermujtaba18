@@ -10,14 +10,8 @@ const profile = await fetch('/get/profile/omermujtaba');
   "location": "Montreal, Quebec",
   "profession": "Software Engineer",
   "dev_stack": [
-    "node-js", "typescript", "javascript", "MongoDB",  "react", "MySQL",  "git", 
-    "react-native", "php", "python", "bootstrap", "html", "css", "Datadog"
-  ],
-  "learning_current": [ 
-    "typescript:advance", "node-js:advance" 
-  ],
-  "learning_future": [ 
-    "unit-testing:advance", "docker", "kubernetes", "RabitMQ", "Redis", "AWS", "GCP" 
+    "typescript", "javascript", "MongoDB", "react", "MySQL",  "git", 
+    "Docker", "Kubernetes", "Kafka", "Unit testing", "Datadog"
   ]
 }
 ```
