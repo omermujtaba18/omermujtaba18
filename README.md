@@ -21,8 +21,19 @@
 - DevOps & Cloud AWS (EC2, ECS, Athena, Lambda, S3), Docker, Kubernetes, CI/CD (GitHub Actions)
 - Tools & Technologies Kafka, Stripe, Tableau, DataDog  
 
-### 🖥️ Topics
-- [omermujtaba-technical-assessment](https://github.com/topics/omermujtaba-technical-assessment) - Collection of my implmenations of various technicial assessments
+### 🖥️ Collections
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=omermujtaba18&repo=planned-technical-assessment)](https://github.com/omermujtaba18/planned-technical-assessment)
+<details open>
+
+<summary>Collection of my implmenations of various technicial assessments</summary>
+
+<br/>
+  
+[![Collection Card](https://github-readme-stats-two-zeta-48.vercel.app/api/pin/?username=omermujtaba18&repo=planned-technical-assessment)](https://github.com/omermujtaba18/planned-technical-assessment)
+[![Collection Card](https://github-readme-stats-two-zeta-48.vercel.app/api/pin/?username=omermujtaba18&repo=nesto-technical-assessment)](https://github.com/omermujtaba18/planned-technical-assessment)
+[![Collection Card](https://github-readme-stats-two-zeta-48.vercel.app/api/pin/?username=omermujtaba18&repo=hinge-health-technical-assessment)](https://github.com/omermujtaba18/planned-technical-assessment)
+[![Collection Card](https://github-readme-stats-two-zeta-48.vercel.app/api/pin/?username=omermujtaba18&repo=salla-technical-assessment)](https://github.com/omermujtaba18/planned-technical-assessment)
+
+</details>
+
 
