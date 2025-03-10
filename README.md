@@ -22,4 +22,7 @@
 - Tools & Technologies Kafka, Stripe, Tableau, DataDog  
 
 ### 🖥️ Topics
-- [omermujtaba-technical-assessment](https://github.com/topics/omermujtaba-technical-assessment) - Collection of my implmenations of various technicial assessments 
+- [omermujtaba-technical-assessment](https://github.com/topics/omermujtaba-technical-assessment) - Collection of my implmenations of various technicial assessments
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=omermujtaba18&repo=planned-technical-assessment)](https://github.com/omermujtaba18/planned-technical-assessment)
+
