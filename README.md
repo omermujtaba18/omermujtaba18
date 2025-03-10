@@ -6,7 +6,7 @@
 
 ### 💼 Experience
 - Senior Software Engineer - Technical Lead @ Weyrk (2024 - 2025)
-- Software Engineer II @ Zendesk (2022 - 2024)
+- Software Engineer II @ [Zendesk](https://github.com/zendesk) (2022 - 2024)
 - Full Stack Engineer @ Morango (2020 - 2022)
 - Software Engineer @ Switch - ITC (2018 - 2019)
 
