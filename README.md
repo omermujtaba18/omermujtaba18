@@ -1,7 +1,7 @@
 ## Hello there 👋
 
 ### 👀 whoami
-🚀 Full Stack Software Engineer
+🚀 Full Stack Software Engineer  
 💡 Passionate about building scalable web applications, optimizing system performance, and leading engineering teams.
 
 ### 💼 Experience
