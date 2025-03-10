@@ -23,9 +23,9 @@
 
 ### 📂 Collections
 
-<details open>
+<details>
 
-<summary>Collection of my implmenations of various technicial assessments</summary>
+<summary>My implmenations of various technicial assessments</summary>
 
 <br/>
   
