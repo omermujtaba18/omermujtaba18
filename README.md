@@ -23,7 +23,7 @@
 
 ### 📂 Collections
 
-<details>
+<details open>
 
 <summary>My implmenations of various technicial assessments</summary>
 
