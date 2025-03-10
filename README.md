@@ -21,7 +21,7 @@
 - DevOps & Cloud AWS (EC2, ECS, Athena, Lambda, S3), Docker, Kubernetes, CI/CD (GitHub Actions)
 - Tools & Technologies Kafka, Stripe, Tableau, DataDog  
 
-### 🖥️ Collections
+### 📂 Collections
 
 <details open>
 
