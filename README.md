@@ -21,4 +21,5 @@
 - DevOps & Cloud AWS (EC2, ECS, Athena, Lambda, S3), Docker, Kubernetes, CI/CD (GitHub Actions)
 - Tools & Technologies Kafka, Stripe, Tableau, DataDog  
 
-
+### 🖥️ Topics
+- [omermujtaba-technical-assessment](https://github.com/topics/omermujtaba-technical-assessment) - Collection of my implmenations of various technicial assessments 
