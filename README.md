@@ -11,9 +11,9 @@
 - Software Engineer @ Switch - ITC (2018 - 2019)
 
 ### 🎓 Education
-- Masters in Engineering, Information Systems Security @ Concordia University, Montreal, CA (2020-2021)
+- Masters in Engineering, Information Systems Security @ [Concordia University](https://www.concordia.ca/) (2020-2021)
 - AWS Certified Cloud Practioner (2020)
-- Bachelors in Software Engineering @ COMSATS University, Islamabad, PK (2014 - 2018)
+- Bachelors in Software Engineering @ [COMSATS University](https://www.comsats.edu.pk/) (2014 - 2018)
 
 ### 🔧 Skills
 - Languages & Frameworks: JavaScript, TypeScript, Node.js, React.js, Next.js, Python, PHP (CodeIgniter), Ruby
@@ -23,7 +23,7 @@
 
 ### 📂 Collections
 
-<details open>
+<details>
 
 <summary>My implmenations of various technicial assessments</summary>
 
