@@ -16,7 +16,7 @@
 - Bachelors in Software Engineering @ [COMSATS University](https://www.comsats.edu.pk/) (2014 - 2018)
 
 ### 🔧 Skills
-- Languages & Frameworks: JavaScript, TypeScript, Node.js, React.js, Next.js, Python, PHP (CodeIgniter), Ruby
+- Languages & Frameworks: JavaScript, TypeScript, Node.js, React.js, Next.js, Python, PHP (CodeIgniter, Laravel)
 - Databases: MongoDB, MySQL, PostgreSQL, Google BigQuery
 - DevOps & Cloud AWS (EC2, ECS, Athena, Lambda, S3), Docker, Kubernetes, CI/CD (GitHub Actions)
 - Tools & Technologies Kafka, Stripe, Tableau, DataDog  
