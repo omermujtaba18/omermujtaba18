@@ -30,9 +30,9 @@
 <br/>
   
 [![Collection Card](https://github-readme-stats-two-zeta-48.vercel.app/api/pin/?username=omermujtaba18&repo=planned-technical-assessment)](https://github.com/omermujtaba18/planned-technical-assessment)
-[![Collection Card](https://github-readme-stats-two-zeta-48.vercel.app/api/pin/?username=omermujtaba18&repo=nesto-technical-assessment)](https://github.com/omermujtaba18/planned-technical-assessment)
-[![Collection Card](https://github-readme-stats-two-zeta-48.vercel.app/api/pin/?username=omermujtaba18&repo=hinge-health-technical-assessment)](https://github.com/omermujtaba18/planned-technical-assessment)
-[![Collection Card](https://github-readme-stats-two-zeta-48.vercel.app/api/pin/?username=omermujtaba18&repo=salla-technical-assessment)](https://github.com/omermujtaba18/planned-technical-assessment)
+[![Collection Card](https://github-readme-stats-two-zeta-48.vercel.app/api/pin/?username=omermujtaba18&repo=nesto-technical-assessment)](https://github.com/omermujtaba18/nesto-technical-assessment)
+[![Collection Card](https://github-readme-stats-two-zeta-48.vercel.app/api/pin/?username=omermujtaba18&repo=hinge-health-technical-assessment)](https://github.com/omermujtaba18/hinge-health-technical-assessment)
+[![Collection Card](https://github-readme-stats-two-zeta-48.vercel.app/api/pin/?username=omermujtaba18&repo=salla-technical-assessment)](https://github.com/omermujtaba18/salla-technical-assessment)
 
 </details>
 
