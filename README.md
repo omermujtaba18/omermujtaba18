@@ -5,7 +5,7 @@
 💡 Passionate about building scalable web applications, optimizing system performance, and leading engineering teams.
 
 ### 💼 Experience
-- Software Developer, Data - @ [CapIntel](https://capintel.com/)
+- Software Developer, Data - @ [CapIntel](https://capintel.com/) (2025 - Present)
 - Senior Software Engineer - Technical Lead @ Weyrk (2024 - 2025)
 - Software Engineer II @ [Zendesk](https://github.com/zendesk) (2022 - 2024)
 - Full Stack Engineer @ Morango (2020 - 2022)
