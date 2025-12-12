@@ -22,19 +22,4 @@
 - DevOps & Cloud: AWS (EC2, ECS, Athena, Lambda, S3), Docker, Kubernetes, CI/CD (GitHub Actions)
 - Tools & Technologies: Kafka, Stripe, Tableau, DataDog  
 
-### 📂 Collections
-
-<details>
-
-<summary>My implmenations of various technicial assessments</summary>
-
-<br/>
-  
-[![Collection Card](https://github-readme-stats-two-zeta-48.vercel.app/api/pin/?username=omermujtaba18&repo=planned-technical-assessment)](https://github.com/omermujtaba18/planned-technical-assessment)
-[![Collection Card](https://github-readme-stats-two-zeta-48.vercel.app/api/pin/?username=omermujtaba18&repo=nesto-technical-assessment)](https://github.com/omermujtaba18/nesto-technical-assessment)
-[![Collection Card](https://github-readme-stats-two-zeta-48.vercel.app/api/pin/?username=omermujtaba18&repo=hinge-health-technical-assessment)](https://github.com/omermujtaba18/hinge-health-technical-assessment)
-[![Collection Card](https://github-readme-stats-two-zeta-48.vercel.app/api/pin/?username=omermujtaba18&repo=salla-technical-assessment)](https://github.com/omermujtaba18/salla-technical-assessment)
-
-</details>
-
 
